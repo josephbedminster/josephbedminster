@@ -1,4 +1,4 @@
-# Hi there, I'm 👨🏽‍💻 Joseph Bedminster (@jocodey) 👋
+# Hi there, I'm 👨🏽‍💻 Joseph Bedminster 👋
 
 ## About Me
 
