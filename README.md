@@ -74,7 +74,7 @@ Open-sourced contribution to the Official Loot Project : added 2D web-game with 
 [lootcraft]: https://loot-craft.com/
 [dragon]: https://dragonrealm-p2e.com/
 [emojiiis]: https://emojiiis.co/
-[website]: https://joseph.bedminster.fr
+[website]: https://dev.to/@josephbedminster
 [bonanza]: https://bonanza.co
 [twitter]: https://twitter.com/Lyliiya
 [daneel]: https://daneel.io/
