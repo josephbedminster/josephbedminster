@@ -5,7 +5,7 @@
 - ⚡️ 29 yo
 - 🇫🇷 French
 - 🥖 Paris & ☀️ Montpellier
-- 🎓 Graduated from Epitech Paris (MsC & MBA)
+- 🎓 Graduated from Epitech Paris (MSc & MBA)
 - 🎮 Video games : mostly RPGs (The Witcher, Horizon Zero Dawn,...)
 
 
