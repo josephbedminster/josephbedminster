@@ -2,7 +2,7 @@
 
 ## About Me
 
-- ⚡️ 29 yo
+- ⚡️ 30 yo
 - 🇫🇷 French
 - 🥖 Paris & ☀️ Montpellier
 - 🎓 Graduated from Epitech Paris (MSc & MBA)
